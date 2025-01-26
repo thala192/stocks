@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.apexcharts-tooltip {
+  background: #333 !important;
+  color: #fff !important;
+  border-radius: 5px !important;
+  padding: 10px !important;
+}

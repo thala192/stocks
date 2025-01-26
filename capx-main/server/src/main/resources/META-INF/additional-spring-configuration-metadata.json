@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "alphavantage.api.key",
+    "type": "java.lang.String",
+    "description": "A description for 'alphavantage.api.key'"
+  },
+  {
+    "name": "alphavantage.api.url",
+    "type": "java.lang.String",
+    "description": "A description for 'alphavantage.api.url'"
+  },
+  {
+    "name": "polygon.api.base-url",
+    "type": "java.lang.String",
+    "description": "A description for 'polygon.api.base-url'"
+  },
+  {
+    "name": "polygon.api.key",
+    "type": "java.lang.String",
+    "description": "A description for 'polygon.api.key'"
+  },
+  {
+    "name": "cors.local.url",
+    "type": "java.lang.String",
+    "description": "A description for 'cors.local.url'"
+  },
+  {
+    "name": "cors.deploy.url",
+    "type": "java.lang.String",
+    "description": "A description for 'cors.deploy.url'"
+  }
+]}
