@@ -96,7 +96,3 @@ If you have any feedback or suggestions, feel free to open an issue or submit a 
 This project is licensed under the MIT License.
 
 ---
-
-### 🧑‍💻 **Author**
-
-Developed with ❤️ by **[Raushan](https://github.com/raushan-kumar7)** | **[Portfolio](https://raushan-kumar.onrender.com)**.
